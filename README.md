@@ -1,13 +1,8 @@
 # PROJECT\_NAME
 
-**Tagline describing the project in a few words.**
+> Tagline describing the project in a few words.
 
 Full description and links to related projects and resources.
-
-## Requirements
-
-* Glassfish 2
-* Ruby 1.9.3
 
 ## Installation
 
@@ -16,6 +11,11 @@ Description of the installation procedure.
 ```bash
 # With code or command-line examples when appropriate.
 ```
+
+### Requirements
+
+* Glassfish 2
+* Ruby 1.9.3
 
 ## Usage
 
